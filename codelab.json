@@ -1,0 +1,22 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2025-11-28T19:49:19+05:00",
+  "id": "codelab-tut",
+  "duration": 0,
+  "title": "Step 1: Introduction",
+  "authors": "Your Name",
+  "summary": "My First Tutorial",
+  "source": "tutorial.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "web"
+  ],
+  "tags": [],
+  "url": "codelab-tut"
+}
